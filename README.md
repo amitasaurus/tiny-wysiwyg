@@ -1,5 +1,5 @@
 # tiny-wysiwyg
-A Tiny 3kb wysiwyg editor pluigin written in js (no dependencies)
+A Tiny 3kb wysiwyg editor plugin written in js (no dependencies)
 
 * insert the wysiwyg.js and wysiwyg.css files in your code.
 * insert in your html body ```<div id="wysiwyg" data-height="100vh" data-width="100%"></div>```
